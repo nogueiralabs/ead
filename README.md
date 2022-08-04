@@ -1,7 +1,7 @@
 ## Cursos EAD gratuitos com certificado:
 
 Cursos de ensino a distância classificados por ordem alfabética.  Utilize a função pesquisar no texto **(CTRL+F)** para achar o curso de seu interesse.
-<br>
+<br/>
 |Instituição|Curso|Link|Carga|
 |-|-|-|-|
 |SENAI-GO|Ajudante de Açougueiro|https://senaigoias.com.br/eadcursos/senai/curso/17055/ajudante-de-acougueiro/|180h|
