@@ -1,6 +1,6 @@
 ## Cursos EAD gratuitos com certificado:
 
-Cursos de ensino a distância classificados por ordem alfabética.  Utilize a função pesquisar no texto **(CTRL+F)** para achar o curso de seu interesse.
+Cursos de ensino a distância classificados por ordem alfabética.  Utilize a função pesquisar no texto **(CTRL+F)** para achar o curso de seu interesse. No caso do SESI/SENAI, existem cursos nacionais, que são ministrados em todos os estados que possuem plataforma de ensino a distância.
 <br/>
 |Instituição|Curso|Link|Carga|
 |-|-|-|-|
