@@ -119,3 +119,5 @@ Cursos de ensino a distância classificados por ordem alfabética.  Utilize a fu
 |SENAI-ES|Tecnologia da Informação e Comunicação|https://eadsenaies.com.br/cursos-ead-gratuitos/tic-tecnologia-da-informacao-e-comunicacao/|14h|
 |SENAI-SP|Tecnologia da Informação e Comunicação|https://online.sp.senai.br/curso/78400/483/competencia-transversal-tecnologia-da-informacao-e-comunicacao|14h|
 |SENAI-SP|Veículos Elétricos e Híbridos|https://online.sp.senai.br/curso/96083/483/veiculos-eletricos-e-hibridos|20h|
+
+Sugestões? Os requisitos são: Ser modalidade a distância (100% EAD), emitem certificado válido para currículo e são gratuitos (inclusive a emissão do certificado)
