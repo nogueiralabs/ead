@@ -8,6 +8,7 @@ Cursos de ensino a distância classificados por ordem alfabética.  Utilize a fu
 |SENAI-GO|Ajudante de Eletricista|https://senaigoias.com.br/eadcursos/senai/curso/17051/ajudante-de-eletricista/|240h|
 |SENAI-SP|Alimentos Funcionais|https://online.sp.senai.br/curso/97264/483/alimentos-funcionais|20h|
 |SENAI-GO|Analista de Redes em Computadores|https://senaigoias.com.br/eadcursos/senai/curso/17319/analista-de-redes-em-computadores|160h|
+|Microsoft|Análise de dados no Power BI|https://www.eucapacito.com.br/curso-ec/analise-de-dados-no-power-bi|2h|
 |SENAI-GO|Analista de Segurança em Redes de Computadores|https://senaigoias.com.br/eadcursos/senai/curso/17320/analista-de-seguranca-em-redes-de-computadores|160h|
 |SENAI-GO|Assistente Ambiental|https://senaigoias.com.br/eadcursos/senai/curso/15133/assistente-ambiental|163h|
 |SENAI-GO|Assistente de Distribuição|https://senaigoias.com.br/eadcursos/senai/curso/16409/assistente-de-distribuicao|160h|
@@ -27,11 +28,13 @@ Cursos de ensino a distância classificados por ordem alfabética.  Utilize a fu
 |SENAI-GO|Consumo consciente de Energia|https://senaigoias.com.br/eadcursos/senai/curso/11447/consumo-consciente-de-energia|14h|
 |SENAI-MT|Consumo consciente de Energia|https://senaiead.senai.br/ms/#coursecatalog/self/301|14h|
 |SENAI-SP|Consumo consciente de Energia|https://online.sp.senai.br/curso/78359/483/competencia-transversal-consumo-consciente-de-energia|14h|
-|EuCapacito-Microsoft|Dê seus primeiros passos com o Python|https://www.eucapacito.com.br/curso-ec/de-seus-primeiros-passos-com-o-python|5h|
+|FIAP|Customer Experience Management|https://www.eucapacito.com.br/curso-ec/customer-experience-management|40h|
+|Microsoft|Dê seus primeiros passos com o Python|https://www.eucapacito.com.br/curso-ec/de-seus-primeiros-passos-com-o-python|40|
 |SENAI-GO|Desenhista Técnico da Construção Civil|https://senaigoias.com.br/eadcursos/senai/curso/17372/desenhista-tecnico-da-construcao-civil|160h|
 |SENAI-ES|Desenho Arquitetônico|https://eadsenaies.com.br/cursos-ead-gratuitos/desenho-arquitetonico/|14h|
 |SENAI-GO|Desenho Arquitetônico|https://senaigoias.com.br/eadcursos/senai/curso/11449/desenho-arquitetonico|14h|
 |SENAI-MT|Desenho Arquitetônico|https://senaiead.senai.br/ms/#coursecatalog/self/302|14h|
+|IBM|Design Thinking – Primeiros passos|https://www.eucapacito.com.br/curso-ec/design-thinking-primeiros-passos|2h|
 |SENAI-ES|Desvendando a Blockchain|https://eadsenaies.com.br/cursos-ead/desvendando-a-blockchain/|20h|
 |SENAI-MG|Desvendando a Blockchain|https://www.fiemg.com.br/ead/cursos/blockchain/index.html|20h|
 |SENAI-SP|Desvendando a Blockchain|https://online.sp.senai.br/curso/87241/483/desvendando-a-blockchain|20h|
@@ -41,6 +44,7 @@ Cursos de ensino a distância classificados por ordem alfabética.  Utilize a fu
 |SENAI-SP|Desvendando o 5G|https://online.sp.senai.br/curso/95993/483/desvendando-o-5g|15h|
 |SENAI-ES|Desvendando o BIM|https://eadsenaies.com.br/cursos-ead-gratuitos/desvendando-o-bim-building-information-modeling/|20h|
 |SENAI-SP|Desvendando o BIM|https://online.sp.senai.br/curso/90407/483/desvendando-o-bim|20h|
+|FIAP|DevOps & Agile Culture|https://www.eucapacito.com.br/curso-ec/devops-agile-culture|60h|
 |SESI-GO|Diversidade, Segurança e Saúde do Trabalho|https://senaigoias.com.br/eadcursos/sesi/curso/7369/diversidade-seguranca-e-saude-do-trabalho-uma-perspectiva-de-integracao|4h|
 |SENAI-SP|Economia Circular|https://online.sp.senai.br/curso/90950/483/economia-circular|20h|
 |SESI-ES|Educação Ambiental|https://eadsenaies.com.br/cursos-ead-gratuitos/educacao-ambiental/|14h|
