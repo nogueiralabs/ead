@@ -27,6 +27,7 @@ Cursos de ensino a distância classificados por ordem alfabética.  Utilize a fu
 |SENAI-GO|Consumo consciente de Energia|https://senaigoias.com.br/eadcursos/senai/curso/11447/consumo-consciente-de-energia|14h|
 |SENAI-MT|Consumo consciente de Energia|https://senaiead.senai.br/ms/#coursecatalog/self/301|14h|
 |SENAI-SP|Consumo consciente de Energia|https://online.sp.senai.br/curso/78359/483/competencia-transversal-consumo-consciente-de-energia|14h|
+|EuCapacito-Microsoft|Dê seus primeiros passos com o Python|https://www.eucapacito.com.br/curso-ec/de-seus-primeiros-passos-com-o-python|5h|
 |SENAI-GO|Desenhista Técnico da Construção Civil|https://senaigoias.com.br/eadcursos/senai/curso/17372/desenhista-tecnico-da-construcao-civil|160h|
 |SENAI-ES|Desenho Arquitetônico|https://eadsenaies.com.br/cursos-ead-gratuitos/desenho-arquitetonico/|14h|
 |SENAI-GO|Desenho Arquitetônico|https://senaigoias.com.br/eadcursos/senai/curso/11449/desenho-arquitetonico|14h|
